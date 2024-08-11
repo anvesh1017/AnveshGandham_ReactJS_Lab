@@ -1,0 +1,60 @@
+{
+  "expenses": [
+    {
+      "expenseDescription": "Internet Expenses",
+      "payeeName": "Ramesh",
+      "price": 1100,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "1"
+    },
+    {
+      "expenseDescription": "Bike Maintainence Expenses",
+      "payeeName": "Rahul",
+      "price": 3500,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "2"
+    },
+    {
+      "expenseDescription": "Electricity Bill - Nov Month",
+      "payeeName": "Ramesh",
+      "price": 2200,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "3"
+    },
+    {
+      "expenseDescription": "Dinner Expenses - Friday Night",
+      "payeeName": "Rahul",
+      "price": 1750,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "4"
+    },
+    {
+      "expenseDescription": "Saturday - Movie Night",
+      "payeeName": "Ramesh",
+      "price": 920,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "5"
+    },
+    {
+      "id": "d122",
+      "expenseDescription": "Movie tickets",
+      "payeeName": "Ramesh",
+      "price": 400,
+      "date": "2024-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "0424",
+      "expenseDescription": "Food Bill",
+      "payeeName": "Rahul",
+      "price": 300,
+      "date": "2024-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "52de",
+      "expenseDescription": "Monthly Renter Insurance",
+      "payeeName": "Ramesh",
+      "price": 500,
+      "date": "2024-08-01T00:00:00.000Z"
+    }
+  ]
+}
